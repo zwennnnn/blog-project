@@ -30,7 +30,7 @@ Modern teknolojiler kullanılarak geliştirilmiş full-stack blog platformu.
 
 1. Repoyu klonlayın
 
-bash 
+```bash 
 
 git clone https://github.com/kullaniciadi/repo-adi.git
 
@@ -64,7 +64,7 @@ REACT_APP_API_URL=http://localhost:5000
 
 6. Backend ve frontend'i başlatın
 
-bash
+```
 
 Backend
 
