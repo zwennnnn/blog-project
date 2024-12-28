@@ -32,7 +32,7 @@ Modern teknolojiler kullanılarak geliştirilmiş full-stack blog platformu.
 
 ```bash 
 
-git clone [https://github.com/zwennnnn/blog-project.git]
+git clone https://github.com/zwennnnn/blog-project.git
 
 2. Backend klasörüne gidin ve gerekli paketleri yükleyin
 
