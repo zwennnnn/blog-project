@@ -128,3 +128,31 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# Project specific
+/blog-frontend/node_modules
+/blog-backend/node_modules
+/blog-frontend/build
+/blog-frontend/dist
+/blog-backend/build
+/blog-backend/dist
+
+# Environment files
+/blog-frontend/.env
+/blog-backend/.env
+
+# Upload directories
+/uploads
+/blog-backend/uploads
+**/uploads/
+
+# IDE specific
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
