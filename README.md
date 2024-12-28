@@ -32,7 +32,7 @@ Modern teknolojiler kullanılarak geliştirilmiş full-stack blog platformu.
 
 ```bash 
 
-git clone https://github.com/kullaniciadi/repo-adi.git
+git clone [https://github.com/zwennnnn/blog-project.git]
 
 2. Backend klasörüne gidin ve gerekli paketleri yükleyin
 
@@ -50,7 +50,7 @@ npm install
 
 env
 
-MONGO_URI=mongodb+srv://kullaniciadi:sifre@cluster0.mongodb.net/blog-db?retryWrites=true&w=majority
+MONGO_URI=MONGO urınız
 JWT_SECRET=blog-platformu-secret-key
 PORT=5000
 
